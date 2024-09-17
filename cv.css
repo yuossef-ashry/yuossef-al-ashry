@@ -1,0 +1,444 @@
+body {
+  margin: 0;
+  color: rgb(255, 255, 255);
+  background-color: #000618;
+  width: 100%;
+}
+
+.wsa {
+  display: flex;
+
+  margin: 0 auto;
+  height: 70px;
+}
+.hio {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.kwa {
+  padding-left: 750px;
+  padding-top: 20px;
+  max-width: 800px;
+}
+.mnb {
+  text-decoration: none;
+  font-size: 30px;
+  padding-left: 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  transition: 0.7s ease;
+}
+
+.mng {
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 255, 255);
+}
+.muo {
+  width: 300px;
+  border-radius: 200px 200px 200px 200px;
+  padding-top: 40px;
+}
+.lwe {
+  display: flex;
+  padding-left: 250px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  width: 1000px;
+}
+.ovw {
+  width: 150px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgb(114, 180, 250);
+  color: #000618;
+}
+.qxv {
+  padding-top: 150px;
+  padding-left: 80px;
+}
+.pwv {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+}
+.spb {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40px;
+  color: rgb(11, 174, 174);
+}
+.nti {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+.gmq {
+  width: 550px;
+  font-size: 20px;
+  color: rgb(247, 247, 247);
+}
+
+.hpo {
+  display: flex;
+}
+.byo {
+  padding-left: 400px;
+}
+.fpo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  transition: 0.4s ease-in-out;
+  padding-right: 15px;
+}
+.qmn {
+  font-family: cursive;
+  width: 900px;
+  color: rgb(114, 180, 250);
+  font-size: x-large;
+}
+.qre {
+  width: 339px;
+  padding-top: 25px;
+  padding-left: 300px;
+  height: 539px;
+}
+
+table,
+td {
+  border: 3px rgb(255, 255, 255) double;
+  color: rgb(114, 180, 250);
+  border-collapse: collapse;
+  text-align: center;
+  padding: 7px;
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.sop {
+  width: 200px;
+  text-align: center;
+  height: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blue;
+}
+.cto {
+  font-size: 70px;
+  font-family: "fantasy";
+  color: rgb(114, 180, 250);
+  padding-left: 600px;
+}
+.bac {
+  font-size: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  padding-right: 30px;
+  color: rgb(255, 255, 255);
+  padding-left: 80px;
+}
+.nmn {
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: tomato;
+  padding-left: 140px;
+}
+
+.pab {
+  padding-right: 250px;
+}
+
+.kwa a:hover:not(.active) {
+  color: rgb(114, 180, 250);
+  text-decoration-line: underline;
+}
+.ucb {
+  width: 1519px;
+  height: 788px;
+}
+.oln {
+  display: flex;
+  text-decoration: none;
+  padding-left: 90px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+.pok {
+  width: 50px;
+  height: 50px;
+  padding-right: 20px;
+}
+.lsr {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif, "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #ffffff;
+}
+.kom {
+  padding-left: 20px;
+}
+.usb {
+  padding-left: 30px;
+}
+
+.ucb {
+  display: flex;
+}
+.rop {
+  font-size: 53px;
+  padding-left: 80px;
+  color: rgb(255, 255, 255);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.nsb {
+  width: 200px;
+
+  padding-left: 500px;
+}
+.erb {
+  width: 300px;
+  height: 650px;
+}
+.sto {
+  font-size: xx-large;
+}
+.voa {
+  width: 800px;
+  height: 90px;
+  background-color: darkblue;
+}
+.fre {
+  font-size: xx-large;
+  color: rgb(255, 255, 255);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.ova {
+  width: 800px;
+  height: 200px;
+  background-color: darkblue;
+}
+
+.esf {
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  height: 50px;
+  font-size: x-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.mkl {
+  border-radius: 200px 200px 200px 200px;
+}
+.sto {
+  color: rgb(255, 255, 255);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.xvb {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(255, 255, 255);
+}
+.lfg {
+  width: 1519px;
+  height: 30px;
+}
+.sop:hover {
+  background-color: azure;
+  color: blue;
+}
+.ovw:hover {
+  background-color: blue;
+}
+.esf:hover {
+  background-color: blue;
+}
+.ova:hover {
+  background-color: #000618;
+}
+.voa:hover {
+  background-color: #000618;
+}
+.mnb:hover {
+  transform: rotate(699deg);
+}
+.muo:hover {
+  transform: rotate(720deg);
+  transition: 0.95s ease;
+}
+.pok:hover {
+  transform: rotate(700deg);
+  transition: 0.95s ease;
+}
+.fpo:hover {
+  transform: scaleX(1.1);
+}
+
+.ipo {
+  display: flex;
+  padding-left: 100px;
+}
+.fph {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+  color: blue;
+  transition: 0.4s ease-in-out;
+}
+.fph:hover {
+  transform: scaleX(1.1);
+}
+.oed {
+  display: flex;
+}
+.opp {
+  width: 600px;
+
+  height: 200px;
+  background-color: #000618;
+  color: rgb(114, 180, 250);
+  padding-left: 100px;
+}
+.nmh {
+  width: 600px;
+  height: 200px;
+  background-color: #000618;
+  color: rgb(114, 180, 250);
+  padding-left: 100px;
+}
+.opl {
+  font-family: fantasy;
+}
+.nms {
+  font-family: fantasy;
+}
+.card {
+  background-color: #051444;
+  width: 300px;
+  height: 140px;
+}
+.card-header {
+  text-align: center;
+  font-family: fantasy;
+  color: #6eacda;
+  padding-top: 20px;
+  font-size: larger;
+}
+.card-text {
+  text-align: center;
+  padding-top: 10px;
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.card:hover {
+  background-color: #000000;
+}
+.card-header:hover {
+  color: #051444;
+}
+.qmn {
+  padding-left: 300px;
+  padding-bottom: 20px;
+}
+.ywo {
+  width: 400px;
+  height: 600px;
+  padding: 50px;
+}
+.yoo {
+  width: 650px;
+  height: 600px;
+  padding: 50px;
+}
+.hmb:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+.kob {
+  padding-bottom: 90px;
+}
+.hop {
+  width: 200px;
+}
+.rpo {
+  clip-path: circle(50%);
+  width: 80px;
+  height: 80px;
+}
+* {
+  padding: 0;
+  margin: 0;
+  
+  font-family: "Times New Roman", Times, serif;
+}
+
+.img {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid white;
+  flex-shrink: 0;
+}
+.img img {
+  width: 100%;
+  max-width: 1400px;
+}
+.menu {
+  background-color: #000618;
+  width: 70px;
+  height: 300vh;
+  color: #6eacda ;
+  padding: 20px;
+  overflow: hidden;
+  transition: 0.9s;
+  display: flex;
+}
+.menu:hover {
+  width: 300px;
+
+  display: flex;
+}
+ul {
+  list-style: none;
+  position: relative;
+
+}
+ul li a {
+  display: block;
+  text-decoration: none;
+  display: flex;
+  padding: 65px;
+  margin: 5px 0;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  font-size: x-large;
+  transition: 0.5s;
+  color: #6eacda;
+  
+}
+ul li a:hover,
+.data-info .box:hover,
+td:hover {
+  background-color: #ffffff55;
+}
+
+ul li a i {
+  font-size: 50px;
+  padding-left: 100px;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.profile h1 {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.kco{
+  height: 100px;
+padding-left: 25px;
+}

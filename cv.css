@@ -3,6 +3,7 @@ body {
   color: rgb(255, 255, 255);
   background-color: #000618;
   width: 100%;
+  padding-top: 30px;
 }
 
 .wsa {
@@ -76,6 +77,7 @@ body {
   font-size: 20px;
   color: rgb(255, 255, 255);
 }
+
 .gmq {
   width: 550px;
   font-size: 20px;
@@ -86,7 +88,8 @@ body {
   display: flex;
 }
 .byo {
-  padding-left: 400px;
+  padding-left: 150px;
+  padding-top: 50px;
 }
 .fpo {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -94,18 +97,26 @@ body {
   color: rgb(255, 255, 255);
   transition: 0.4s ease-in-out;
   padding-right: 15px;
+  display: inline-block;
 }
 .qmn {
   font-family: cursive;
-  width: 900px;
-  color: rgb(114, 180, 250);
+  width: 700px;
+  height: 300px;
+  color: rgb(150, 193, 239);
   font-size: x-large;
+  padding-top: 150px;
+  font-size: xx-large;
+  padding-left: 20px;
 }
 .qre {
   width: 339px;
-  padding-top: 25px;
-  padding-left: 300px;
+  padding-top: 65px;
+  padding-left: 20px;
   height: 539px;
+}
+.yrew {
+  display: flex;
 }
 
 table,
@@ -115,18 +126,18 @@ td {
   border-collapse: collapse;
   text-align: center;
   padding: 7px;
-  font-size: 30px;
+  font-size: 50px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .sop {
-  width: 200px;
+  width: 400px;
   text-align: center;
   height: 40px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: blue;
 }
 .cto {
-  font-size: 70px;
+  font-size: 60px;
   font-family: "fantasy";
   color: rgb(114, 180, 250);
   padding-left: 600px;
@@ -136,9 +147,7 @@ td {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-  padding-right: 30px;
   color: rgb(255, 255, 255);
-  padding-left: 80px;
 }
 .nmn {
   font-size: 25px;
@@ -286,6 +295,7 @@ td {
   font-size: 50px;
   color: blue;
   transition: 0.4s ease-in-out;
+  display: inline-block;
 }
 .fph:hover {
   transform: scaleX(1.1);
@@ -338,10 +348,7 @@ td {
 .card-header:hover {
   color: #051444;
 }
-.qmn {
-  padding-left: 300px;
-  padding-bottom: 20px;
-}
+
 .ywo {
   width: 400px;
   height: 600px;
@@ -370,7 +377,7 @@ td {
 * {
   padding: 0;
   margin: 0;
-  
+
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -388,23 +395,22 @@ td {
 }
 .menu {
   background-color: #000618;
-  width: 70px;
-  height: 300vh;
-  color: #6eacda ;
+  width: 100px;
+  height: 100vh;
+  color: #6eacda;
   padding: 20px;
   overflow: hidden;
   transition: 0.9s;
   display: flex;
 }
 .menu:hover {
-  width: 300px;
+  width: 350px;
 
   display: flex;
 }
 ul {
   list-style: none;
   position: relative;
-
 }
 ul li a {
   display: block;
@@ -419,7 +425,11 @@ ul li a {
   font-size: x-large;
   transition: 0.5s;
   color: #6eacda;
-  
+}
+.ghkl {
+  color: #ffffff;
+  padding-left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 ul li a:hover,
 .data-info .box:hover,
@@ -429,7 +439,7 @@ td:hover {
 
 ul li a i {
   font-size: 50px;
-  padding-left: 100px;
+  padding-left: 150px;
 }
 .profile {
   display: flex;
@@ -440,27 +450,27 @@ ul li a i {
   font-size: 20px;
   text-transform: capitalize;
 }
-.kco{
+.kco {
   height: 100px;
-padding-left: 25px;
+  padding-left: 55px;
 }
 .my-element {
   animation: backInDown;
-  animation-duration: 2s; 
+  animation-duration: 2s;
 }
 .huop {
   animation: backInRight;
-  animation-duration: 2s; 
+  animation-duration: 2s;
 }
 .kmer {
   animation: backInUp;
-  animation-duration: 2s; 
+  animation-duration: 2s;
 }
-.dser{
+.dser {
   animation: backInLeft;
-  animation-duration: 2s; 
+  animation-duration: 2s;
 }
-.hbvc{
-  animation: backInLeft;
-  animation-duration: 2s; 
+.hbvc {
+  animation: flip;
+  animation-duration: 2s;
 }

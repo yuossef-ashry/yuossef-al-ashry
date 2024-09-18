@@ -63,6 +63,8 @@ body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: 60px;
   color: rgb(255, 255, 255);
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
 }
 .spb {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -441,4 +443,24 @@ ul li a i {
 .kco{
   height: 100px;
 padding-left: 25px;
+}
+.my-element {
+  animation: backInDown;
+  animation-duration: 2s; 
+}
+.huop {
+  animation: backInRight;
+  animation-duration: 2s; 
+}
+.kmer {
+  animation: backInUp;
+  animation-duration: 2s; 
+}
+.dser{
+  animation: backInLeft;
+  animation-duration: 2s; 
+}
+.hbvc{
+  animation: backInLeft;
+  animation-duration: 2s; 
 }

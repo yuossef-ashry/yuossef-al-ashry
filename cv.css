@@ -470,6 +470,30 @@ ul li a i {
   animation: backInLeft;
   animation-duration: 2s;
 }
+.loader {
+  height: 40px;
+  aspect-ratio: .866;
+  display: grid;
+  background: conic-gradient(from -121deg at right,#0000, #BF1E62 1deg 60deg,#0000 61deg);
+  animation: l12 2s infinite linear;
+  transform-origin: 33% 50%;
+}
+.loader:before,
+.loader:after {
+  content: "";
+  grid-area: 1/1;
+  background: conic-gradient(from -121deg at right,#0000, #FFA588 1deg 60deg,#0000 61deg);
+  transform-origin: inherit;
+  animation: inherit;
+}
+.loader:after {
+  background: conic-gradient(from -121deg at right,#0000, #027B7F 1deg 60deg,#0000 61deg);
+  animation-duration: 3s;
+}
+@keyframes l12{
+  100% {transform: rotate(1turn)}
+}
+
 .hbvc {
   animation: flip;
   animation-duration: 2s;
